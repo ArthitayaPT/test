@@ -1,0 +1,18 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"iomanip": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"array": "cpp",
+			"cmath": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}
